@@ -70,6 +70,6 @@ All tests passed
 ## Assumptions / Tradeoffs
 
 * Debouncing is implemented using a blocking delay for simplicity
-* LED blinking also uses blocking delays (500 ms)
+* LED blinking also uses timer based delays (500 ms)
 ---
 
